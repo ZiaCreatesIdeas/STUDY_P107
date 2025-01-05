@@ -63,9 +63,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Sphinx Template'
-copyright = '2024'
-author = 'Zia'
+project = 'Study Part107'
+copyright = '2025'
+author = 'ZiaCreatesIdeas'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
